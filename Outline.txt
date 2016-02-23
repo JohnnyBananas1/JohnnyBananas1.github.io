@@ -1,0 +1,17 @@
+Navbar:
+About
+Gallery
+Contact
+
+
+Home Page:
+
+Main BG: 1900x1250
+
+ABOUT
+
+GALLERY
+Featured Video: Lilith’s Game
+See More -> Full Gallery
+
+Contact
