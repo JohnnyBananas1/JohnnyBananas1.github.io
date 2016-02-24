@@ -1,3 +1,10 @@
+@font-face {
+	font-family:'Dubstep';
+	src:url('../font-awesome/fonts/Dubstep-Dungeons.woff') format('woff');
+	src:url('../font-awesome/fonts/Dubstep-Dungeons.otf') format('opentype');
+	src:url('../font-awesome/fonts/Dubstep-Dungeons.ttf') format('truetype');
+}
+
 body {
 overflow-x:hidden;
 font-family:"Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -46,13 +53,13 @@ border-color:#fed136;
 
 .btn-xl {
 color:#fff;
-background-color:#fed136;
+background-color:#01CCFF;
 font-family:Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
 text-transform:uppercase;
 font-weight:700;
 border-radius:3px;
 font-size:18px;
-border-color:#fed136;
+border-color:#01CCFF;
 padding:20px 40px;
 }
 
@@ -83,14 +90,14 @@ color:#fff;
 }
 
 .navbar-default .nav li a:hover,.navbar-default .nav li a:focus {
-color:#fed136;
+color:#32d2f0;
 outline:0;
 }
 
 .navbar-default .navbar-nav>.active>a {
 border-radius:0;
 color:#fff;
-background-color:#fed136;
+background-color:#32d2f0;
 }
 
 .navbar-default .navbar-nav>.active>a:hover,.navbar-default .navbar-nav>.active>a:focus {
@@ -114,12 +121,14 @@ color:#fff;
 header .intro-text {
 padding-top:100px;
 padding-bottom:50px;
+font-family:LeagueGothic-Regular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+font-size: 22px;
 }
 
 header .intro-text .intro-lead-in {
-font-family:LeagueGothic-Regular,"Helvetica Neue",Helvetica,Arial,sans-serif;
-font-size:50px;
-line-height:22px;
+font-family:Dubstep,"Helvetica Neue",Helvetica,Arial,sans-serif;
+font-size:75px;
+line-height:80px;
 margin-bottom:25px;
 }
 
@@ -482,8 +491,8 @@ color:#fec503;
 
 .btn-primary:hover,.btn-primary:focus,.btn-primary:active,.btn-primary.active,.open .dropdown-toggle.btn-primary,.btn-xl:hover,.btn-xl:focus,.btn-xl:active,.btn-xl.active,.open .dropdown-toggle.btn-xl {
 color:#fff;
-background-color:#fec503;
-border-color:#f6bf01;
+background-color: #337ab7;
+border-color: #337ab7;
 }
 
 .btn-primary:active,.btn-primary.active,.open .dropdown-toggle.btn-primary,.btn-xl:active,.btn-xl.active,.open .dropdown-toggle.btn-xl {
