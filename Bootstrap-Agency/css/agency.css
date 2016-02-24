@@ -5,7 +5,7 @@ webkit-tap-highlight-color:#fed136;
 }
 
 .text-muted {
-color:#777;
+color:#b1b1b1;
 }
 
 p {
@@ -140,6 +140,7 @@ section h2.section-heading {
 font-size:40px;
 margin-top:0;
 margin-bottom:15px;
+color: #ffffff;
 }
 
 section h3.section-subheading {
@@ -154,6 +155,7 @@ margin-bottom:75px;
 .service-heading {
 text-transform:none;
 margin:15px 0;
+color: #ffffff;
 }
 
 #portfolio .portfolio-item {
