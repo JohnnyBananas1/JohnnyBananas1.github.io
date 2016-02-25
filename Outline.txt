@@ -17,6 +17,7 @@ BIO
 GALLERY
 Featured Video: Lilith’s Game
 See More -> Full Gallery
+Thumbnails 400x290
 
 Contact
 LinkedIn
