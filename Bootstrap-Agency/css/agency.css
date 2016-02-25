@@ -104,7 +104,7 @@ background-color:#32d2f0;
 
 .navbar-default .navbar-nav>.active>a:hover,.navbar-default .navbar-nav>.active>a:focus {
 color:#fff;
-background-color:#fec503;
+background-color:#01CCFF;
 }
 
 header {
@@ -511,7 +511,7 @@ background-color:#fff;
 }
 
 .navbar-default .navbar-toggle:hover,.navbar-default .navbar-toggle:focus,ul.social-buttons li a:hover,ul.social-buttons li a:focus,ul.social-buttons li a:active {
-background-color:#fed136;
+background-color:#01CCFF;
 }
 
 .timeline>li .timeline-panel:before,.timeline>li.timeline-inverted>.timeline-panel:before {
@@ -702,6 +702,23 @@ padding:0 100px 20px 20px;
 .page-scroll.btn.btn-xl {
 	margin-bottom: 800px;
 }
-.icon-imdb {
-	background-image: url();
+.div-imdb {
+	background-image: url("../Bootstrap-Agency/icons/imdb.png");
+	background-position: center center;
+}
+.div-fuisz {
+	background-image: url("../Bootstrap-Agency/icons/fuisz.png");
+	background-position: center center;
+}
+.fuiszicon {
+	background-image: url(icons/fuisz.png);
+    background-position: center center;
+    background-size: 70%;
+    background-repeat: no-repeat;
+}
+.imdbicon {
+	background-image: url(icons/imdb.png);
+	background-position: center center;
+	background-size: 70%;
+	background-repeat: no-repeat;
 }

@@ -1686,6 +1686,7 @@ dt {
 
 dd {
   margin-left: 0;
+  vertical-align: top;
 }
 
 @media (min-width:768px) {
