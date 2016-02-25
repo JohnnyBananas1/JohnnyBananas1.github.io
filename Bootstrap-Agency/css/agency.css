@@ -44,11 +44,11 @@ background-color:#222;
 
 .btn-primary {
 color:#fff;
-background-color:#fed136;
+background-color:#01CCFF;  
 font-family:Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
 text-transform:uppercase;
 font-weight:700;
-border-color:#fed136;
+border-color:#01CCFF;
 }
 
 .btn-xl {
@@ -69,8 +69,9 @@ border-color:transparent;
 }
 
 .navbar-default .navbar-brand {
-color:#fed136;
-font-family:"Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
+color:#ffffff;
+font-family:"Dubstep","Helvetica Neue",Helvetica,Arial,cursive;
+font-size: 30px;
 }
 
 .navbar-default .navbar-collapse {
@@ -230,8 +231,8 @@ margin:0;
 }
 
 #portfolio .portfolio-item .portfolio-caption p {
-font-family:"Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
-font-size:16px;
+font-family:"Montserrat","Helvetica Neue",Helvetica,Arial,sans-serif;
+font-size:14px;
 font-color: #fafafa;
 margin:0;
 }
@@ -486,7 +487,7 @@ outline:0;
 }
 
 a:hover,a:focus,a:active,a.active,.navbar-default .navbar-brand:hover,.navbar-default .navbar-brand:focus,.navbar-default .navbar-brand:active,.navbar-default .navbar-brand.active {
-color:#fec503;
+color:#01CCFF;
 }
 
 .btn-primary:hover,.btn-primary:focus,.btn-primary:active,.btn-primary.active,.open .dropdown-toggle.btn-primary,.btn-xl:hover,.btn-xl:focus,.btn-xl:active,.btn-xl.active,.open .dropdown-toggle.btn-xl {
