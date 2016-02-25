@@ -61,6 +61,7 @@ border-radius:3px;
 font-size:18px;
 border-color:#01CCFF;
 padding:20px 40px;
+margin-bottom:800px;
 }
 
 .navbar-default {
@@ -107,7 +108,7 @@ background-color:#fec503;
 }
 
 header {
-background-image:url(../img/header-bg.jpg);
+background-image: url(../img/bgstars.png);
 background-repeat:none;
 background-attachment:scroll;
 background-position:center center;
@@ -288,8 +289,8 @@ width:80px;
 height:80px;
 position:absolute;
 z-index:100;
-background-color:#fed136;
-color:#fff;
+background-color:#01CCFF;
+color:#ffffff;
 border-radius:100%;
 border:7px solid #f1f1f1;
 text-align:center;
@@ -341,8 +342,7 @@ margin:50px auto;
 }
 
 section#contact {
-background-color:#222;
-background-image:url(../img/map-image.png);
+background-color:#000000;
 background-position:center;
 background-repeat:no-repeat;
 }
