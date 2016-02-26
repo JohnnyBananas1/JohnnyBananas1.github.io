@@ -13,6 +13,7 @@ webkit-tap-highlight-color:#fed136;
 
 .text-muted {
 color:#fafafa;
+font-family:Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
 p {
@@ -156,9 +157,8 @@ color: #ffffff;
 
 section h3.section-subheading {
 font-size:16px;
-font-family:"Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+font-family:"Montserrat","Helvetica Neue",Helvetica,Arial,sans-serif;
 text-transform:none;
-font-style:italic;
 font-weight:400;
 margin-bottom:75px;
 }
@@ -329,7 +329,7 @@ margin:0 auto;
 
 .team-member h4 {
 margin-top:25px;
-margin-bottom:0;
+margin-bottom:10px;
 text-transform:none;
 }
 
@@ -727,4 +727,15 @@ padding:0 100px 20px 20px;
 	background-position: center center;
 	background-size: 70%;
 	background-repeat: no-repeat;
+}
+
+
+.mc_embed_signup.input.button {
+	background-color:#01CCFF;
+}
+.mc_embed_signup.input.button:hover {
+	background-color:#337ab7;
+}
+.ul.list-inline.social.buttons {
+	margin-top: 20px;
 }
