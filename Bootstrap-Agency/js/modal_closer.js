@@ -39,3 +39,8 @@ $('#portfolioModal7').on('hidden.bs.modal', function (e) {
   $('#portfolioModal7').hide();
   $('#portfolioModal7 iframe').attr("src", jQuery("#portfolioModal7  iframe").attr("src"));
 });
+
+$('#portfolioModal8').on('hidden.bs.modal', function (e) {
+  $('#portfolioModal8').hide();
+  $('#portfolioModal8 iframe').attr("src", jQuery("#portfolioModal8  iframe").attr("src"));
+});
