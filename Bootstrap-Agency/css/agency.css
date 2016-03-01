@@ -500,12 +500,12 @@ background-image:none;
 }
 
 .btn-primary.disabled,.btn-primary[disabled],fieldset[disabled] .btn-primary,.btn-primary.disabled:hover,.btn-primary[disabled]:hover,fieldset[disabled] .btn-primary:hover,.btn-primary.disabled:focus,.btn-primary[disabled]:focus,fieldset[disabled] .btn-primary:focus,.btn-primary.disabled:active,.btn-primary[disabled]:active,fieldset[disabled] .btn-primary:active,.btn-primary.disabled.active,.btn-primary[disabled].active,fieldset[disabled] .btn-primary.active,.btn-xl.disabled,.btn-xl[disabled],fieldset[disabled] .btn-xl,.btn-xl.disabled:hover,.btn-xl[disabled]:hover,fieldset[disabled] .btn-xl:hover,.btn-xl.disabled:focus,.btn-xl[disabled]:focus,fieldset[disabled] .btn-xl:focus,.btn-xl.disabled:active,.btn-xl[disabled]:active,fieldset[disabled] .btn-xl:active,.btn-xl.disabled.active,.btn-xl[disabled].active,fieldset[disabled] .btn-xl.active,.navbar-default .navbar-toggle {
-background-color:#fed136;
-border-color:#fed136;
+background-color:#01CCFF;
+border-color:#01CCFF;
 }
 
 .btn-primary .badge,.btn-xl .badge {
-color:#fed136;
+color:#01CCFF;
 background-color:#fff;
 }
 
@@ -740,4 +740,9 @@ padding:0 100px 20px 20px;
 }
 section#about {
 	margin-bottom: 200px;
+}
+@media screen and (min-width: 320px) and (max-width: 640px) {
+	iframe {
+		width: 100%;
+	}
 }
