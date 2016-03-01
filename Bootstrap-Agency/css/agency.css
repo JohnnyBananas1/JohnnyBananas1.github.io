@@ -26,6 +26,7 @@ font-family:Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
 p {
 font-size:14px;
 line-height:1.75;
+font-family:Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
 p.large {
@@ -137,7 +138,7 @@ font-size: 22px;
 
 header .intro-text .intro-lead-in {
 font-family:BankGothic,"Helvetica Neue",Helvetica,Arial,sans-serif;
-font-size:60px;
+font-size:64px;
 line-height:80px;
 margin-bottom:25px;
 }
