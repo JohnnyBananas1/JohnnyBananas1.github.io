@@ -5,6 +5,13 @@
 	src:url('../font-awesome/fonts/Dubstep-Dungeons.ttf') format('truetype');
 }
 
+@font-face {
+	font-family:'BankGothic';
+	src:url('../font-awesome/fonts/BankGothic.woff') format('woff');
+	src:url('../font-awesome/fonts/BankGothic.otf') format('opentype');
+	src:url('../font-awesome/fonts/BankGothic.ttf') format('truetype');
+}
+
 body {
 overflow-x:hidden;
 font-family:"Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -129,8 +136,8 @@ font-size: 22px;
 }
 
 header .intro-text .intro-lead-in {
-font-family:Dubstep,"Helvetica Neue",Helvetica,Arial,sans-serif;
-font-size:75px;
+font-family:BankGothic,"Helvetica Neue",Helvetica,Arial,sans-serif;
+font-size:60px;
 line-height:80px;
 margin-bottom:25px;
 }
